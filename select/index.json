@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "重てえ",
   "base_artist": "千葉雄喜",
-  "createdAt": "2026-03-17T05:33:44.547302Z",
+  "createdAt": "2026-03-18T06:28:34.499094Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "千葉雄喜",
       "has_synced": false,
       "path": "select/pl_01_重てえ_千葉雄喜.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "重てえ",
+      "artist": "千葉雄喜",
+      "has_synced": false,
+      "path": "select/localdb_01_重てえ_千葉雄喜.txt",
+      "repo_name": "CHvvIk3TuBw"
     }
   ]
 }
